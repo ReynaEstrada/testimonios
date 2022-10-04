@@ -5,14 +5,14 @@
     display:flex;
     align-items: center;
     justify-content: center;
-    background-color: #ffffff;
+    background-color: #6b6666;
     box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
 }
 .imagen-testimonio {
     height:100%;
     width:aunto;
 }
-.contenedor-texto-testimonio {
+.text-container-testimony{
     text-align: center;
     padding: 40px;
     font-family: Lato, sans-serif;
